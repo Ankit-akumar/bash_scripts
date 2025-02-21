@@ -9,5 +9,11 @@ Automates the cancellation process of tasks in the system.
 ## deployment_checks.sh
 Automates the deployment checks performed before and post-deployment.
 
+## maint.sh
+Automates the maintenance checks of a server.
+
+## retrigger_flexo_notifications.sh
+Automates the process of sending failed notifications to another server.
+
 ## rss_memory_monitoring.sh
-Monitors the RSS memory usage percentage of the server.
+Monitors the server's RSS memory usage percentage.
